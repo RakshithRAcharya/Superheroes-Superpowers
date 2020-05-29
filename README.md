@@ -13,8 +13,8 @@ Variable | Definition
 `eye_color` | Eye color of the character
 `race` | The race to which character belongs(e.g. Human, Cyborg, Android, etc.)
 `hair` | Hair color of the character
-`height` | Eye color of the character
-`publisher` | Hair color of the character
+`height` | height of the character
+`publisher` | Publisher of the character
 `skin_color` | Skin color of the character
 `Alignment` | If the character is Good, Bad or Neutral
 `weight` | Weight of the character
